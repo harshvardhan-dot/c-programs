@@ -15,4 +15,5 @@ int main() {
         printf("BOTH NUMBERS ARE NOT EQUAL"); 
     }
      return 0;
+
 }
