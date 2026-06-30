@@ -21,9 +21,9 @@ int main() {
         printf("A IS largest");
     }
     else{
-        printf("C IS LARGEST");
+        printf("C IS largest");
     }
      return 0;
 
-     
+
 }
