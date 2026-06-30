@@ -14,6 +14,5 @@ int main() {
       printf("A : %d \n",a);
      printf(" the value of B : %d \n",b);
 
-
     return 0;
 }
