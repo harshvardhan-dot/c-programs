@@ -18,7 +18,7 @@ int main() {
         printf("A IS largest");
     }
     else if(b>a&&b>c){
-        printf("A IS LARGEST");
+        printf("A IS largest");
     }
     else{
         printf("C IS LARGEST");
