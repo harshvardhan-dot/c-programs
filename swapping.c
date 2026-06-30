@@ -12,7 +12,7 @@ int main() {
      b=c;
      printf("VALUES AFTER SWAPPING \n");
       printf("A : %d \n",a);
-     printf("B : %d \n",b);
+     printf(" the value of B : %d \n",b);
 
 
     return 0;
