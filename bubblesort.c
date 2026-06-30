@@ -16,9 +16,9 @@ void bubblesort(int arr[],int n ){
         if (issorted)
         {
             break;
+
         }
     }
-    
     
 }
 
@@ -34,7 +34,7 @@ int main() {
 
     }
     bubblesort(arr,n);
-    printf("the array after sorting is :\n");
+    printf("the array after sorting :\n");
     for ( i = 0; i<n; i++)
     {
         printf("%d  ",arr[i]);
