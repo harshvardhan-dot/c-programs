@@ -15,7 +15,7 @@ int main() {
         printf("ALL NUMBERS ARE EQUAL");
      } 
     else if(a>b&&a>c){
-        printf("A IS largest");
+        printf("a IS largest");
     }
     else if(b>a&&b>c){
         printf("A IS largest");
