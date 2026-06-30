@@ -12,7 +12,7 @@ int main() {
     scanf("%d",&c);
 
     if(a==b==c) {
-        printf("ALL NUMBERS ARE EQUAL");
+        printf("all numbers are equal");
      } 
     else if(a>b&&a>c){
         printf("a IS largest");
@@ -24,6 +24,5 @@ int main() {
         printf("C IS largest");
     }
      return 0;
-
 
 }
